@@ -1,2 +1,2 @@
 # notes-for-the-noggin
-my first repo 
+## Career assignments starting from Class 10 ops 201d6
